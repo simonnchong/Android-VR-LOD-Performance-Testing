@@ -1,4 +1,4 @@
-# LOD-Experiment
+# Android-AR-LOD-Performance-Testing
 
 ### How to run the application.
 Download the apk and install it on your Android phone. 
