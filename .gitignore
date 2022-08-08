@@ -1,0 +1,4 @@
+.history/
+.vscode/
+__pycache__/
+.git
