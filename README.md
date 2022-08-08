@@ -25,5 +25,5 @@ Minimum Android requirement is 7.0 (Nougat)
 #### The result of experiment on 6 different Android phones.
 <img src="8_result_graph.png " width="800">
 
-#### The percentage of LOD on and off for 6 Andorid phones.
+#### The percentage of difference before LOD on and off for 6 Andorid phones.
 <img src="7_diff_percentage.png" width="800">
